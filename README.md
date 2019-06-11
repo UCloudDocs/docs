@@ -2,4 +2,4 @@
 ## 你是一位UCloud产品经理
 
 ## 你希望成为一名UCloud贡献者
- ![image](https://static.ucloud.cn/5228d85b6b674745995d7e6b5a085840.gif)
+ [![](https://static.ucloud.cn/708409d71c0a4a8c8d1fbd6fe3417b36.png)](https://github.com/UCloudDocs/UCloud-document/issues/3)
